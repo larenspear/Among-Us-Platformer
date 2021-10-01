@@ -1,3 +1,5 @@
+Credit to my partners on this project, Daniel Kim, Anna Lai, and Sanya Srivastava!
+
 To run this game, you have to download Processing. Unfortunately there's no real easy way to run this on the web without manually porting it to Javascript.
 
 Download the project directory and open the "bumblefumble_finalproject.pde" file and you should be able to play the game.
